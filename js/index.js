@@ -19,7 +19,7 @@ function get_token()
             console.log("Connected")
     });
     
-
+    //COMMENTAIRE
     var tag = document.createElement("p");
     var text = document.createTextNode("Invalid token");
     tag.appendChild(text);
