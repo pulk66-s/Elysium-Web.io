@@ -1,0 +1,7 @@
+{
+    "name" : "application",
+    "dependencies": {
+        "expres": "0.0.5",
+        "mysql": "2.18.1"
+    }
+}
