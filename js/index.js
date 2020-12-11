@@ -1,8 +1,8 @@
 function get_token()
 {
     let token = document.getElementById("token_input").value;
-    let express = require("express")
-    let mysql = require("mysql")
+    let express = require("express");
+    let mysql = require("mysql");
     let connect = mysql.createConnection({
         host    : "localhost",
         user    : "root",
